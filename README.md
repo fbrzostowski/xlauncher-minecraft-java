@@ -1,1 +1,1 @@
-# xlauncher-minecraft-java
+Add minecraft java edition to xlauncher
